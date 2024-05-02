@@ -1,3 +1,37 @@
+Pizza Sales Data Analysis Project
+
+Welcome to the Pizza Sales Data Analysis Project repository! This project aims to analyze and visualize various aspects of pizza sales data to gain insights and understand key aspects and trends within the industry.
+
+
+
+
+Introduction:
+Pizza sales data is a treasure trove of valuable insights for pizzerias and restaurants alike. By analyzing this data, businesses can uncover trends, optimize operations, and enhance customer satisfaction. This project focuses on analyzing the following aspects of pizza sales data:
+
+Daily and hourly trends for total orders
+Percentage of sales by pizza category and size
+Total pizzas sold by pizza category
+Top 5 best sellers and bottom 5 worst sellers by total pizzas sold
+
+
+
+
+Features:
+Daily and hourly trend analysis
+Visualization of sales percentage by pizza category and size
+Identification of best and worst selling pizzas
+Data-driven insights for business optimization
+
+
+Technologies Used
+This project utilizes the following technologies:
+
+Excel for data manipulation and analysis
+SQL for querying and extracting data from databases
+
+
+
+
 Project Flow Overview:
 
 1] Data Acquisition and Database Creation:
